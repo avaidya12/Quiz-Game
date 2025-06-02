@@ -1,0 +1,448 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "type": "multiple-choice",
+    "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+    "correct": "C",
+    "explanation": "Jupiter is the largest planet in our solar system.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "The Great Wall of China is visible from space.",
+    "type": "true/false",
+    "options": ["True", "False"],
+    "correct": "FALSE",
+    "explanation": "The Great Wall is not visible to the naked eye from space.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Au"],
+    "explanation": "The chemical symbol for gold is Au.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "type": "multiple-choice",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "correct": "C",
+    "explanation": "Plants absorb carbon dioxide for photosynthesis.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Light travels faster than sound.",
+    "type": "true/false",
+    "options": ["True", "False"],
+    "correct": "TRUE",
+    "explanation": "Light travels much faster than sound.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Who wrote the play 'Romeo and Juliet'?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["William Shakespeare", "Shakespeare"],
+    "explanation": "'Romeo and Juliet' was written by William Shakespeare.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "type": "multiple-choice",
+    "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+    "correct": "B",
+    "explanation": "Hydrogen has the atomic number 1.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "The Pacific Ocean is the largest ocean on Earth.",
+    "type": "true/false",
+    "options": ["True", "False"],
+    "correct": "TRUE",
+    "explanation": "The Pacific Ocean is the largest ocean on Earth.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Tokyo"],
+    "explanation": "Tokyo is the capital city of Japan.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "type": "multiple-choice",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "correct": "A",
+    "explanation": "Mercury is the closest planet to the Sun.",
+    "difficulty": "easy"
+  },
+
+  
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "type": "multiple-choice",
+    "options": ["Tiger", "Elephant", "Lion", "Gorilla"],
+    "correct": "C",
+    "explanation": "The lion is known as the 'King of the Jungle'.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "type": "multiple-choice",
+    "options": ["6", "8", "10", "12"],
+    "correct": "B",
+    "explanation": "Spiders have 8 legs.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Water"],
+    "explanation": "H2O is the chemical formula for water.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many days are there in a leap year?",
+    "type": "multiple-choice",
+    "options": ["365", "366", "364", "367"],
+    "correct": "B",
+    "explanation": "A leap year has 366 days.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What color are bananas when they are ripe?",
+    "type": "multiple-choice",
+    "options": ["Green", "Yellow", "Red", "Blue"],
+    "correct": "B",
+    "explanation": "Ripe bananas are yellow in color.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correct": "C",
+    "explanation": "There are 7 continents on Earth.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What fruit is used to make wine?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Grapes"],
+    "explanation": "Wine is made from fermented grapes.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which organ pumps blood in the human body?",
+    "type": "multiple-choice",
+    "options": ["Lungs", "Brain", "Heart", "Liver"],
+    "correct": "C",
+    "explanation": "The heart pumps blood throughout the body.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What does a thermometer measure?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Temperature"],
+    "explanation": "A thermometer measures temperature.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which month has 28 days in a common year?",
+    "type": "multiple-choice",
+    "options": ["February", "April", "June", "September"],
+    "correct": "A",
+    "explanation": "February has 28 days in a common year.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many colors are in a rainbow?",
+    "type": "multiple-choice",
+    "options": ["5", "6", "7", "8"],
+    "correct": "C",
+    "explanation": "A rainbow has 7 colors.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which animal is known to have a long trunk?",
+    "type": "multiple-choice",
+    "options": ["Lion", "Elephant", "Kangaroo", "Bear"],
+    "correct": "B",
+    "explanation": "Elephants have a long trunk.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which direction does the sun rise from?",
+    "type": "multiple-choice",
+    "options": ["North", "South", "East", "West"],
+    "correct": "C",
+    "explanation": "The sun rises from the east.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Which animal barks?",
+    "type": "multiple-choice",
+    "options": ["Cat", "Bird", "Dog", "Cow"],
+    "correct": "C",
+    "explanation": "Dogs are known to bark.",
+    "difficulty": "easy"
+  },
+  {
+    "question": "How many wheels does a bicycle have?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["2", "Two"],
+    "explanation": "A bicycle has 2 wheels.",
+    "difficulty": "easy"
+  },
+
+  
+  {
+    "question": "Who painted the Mona Lisa?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Leonardo da Vinci", "Da Vinci"],
+    "explanation": "The Mona Lisa was painted by Leonardo da Vinci.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["12"],
+    "explanation": "The square root of 144 is 12.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "type": "multiple-choice",
+    "options": ["Iron", "Mercury", "Copper", "Aluminum"],
+    "correct": "B",
+    "explanation": "Mercury is the only metal that is liquid at room temperature.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which blood type is known as the universal donor?",
+    "type": "multiple-choice",
+    "options": ["A", "B", "AB", "O negative"],
+    "correct": "D",
+    "explanation": "O negative blood is considered the universal donor.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Ottawa"],
+    "explanation": "Ottawa is the capital city of Canada.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Barometer"],
+    "explanation": "A barometer is used to measure atmospheric pressure.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which gas makes up most of the Earth's atmosphere?",
+    "type": "multiple-choice",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "correct": "C",
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is the largest internal organ in the human body?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Liver"],
+    "explanation": "The liver is the largest internal organ.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "type": "multiple-choice",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "correct": "B",
+    "explanation": "The Nile is generally considered the longest river in the world.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "In computing, what does CPU stand for?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Central Processing Unit"],
+    "explanation": "CPU stands for Central Processing Unit.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many players are there in a football (soccer) team?",
+    "type": "multiple-choice",
+    "options": ["9", "10", "11", "12"],
+    "correct": "C",
+    "explanation": "A football team has 11 players on the field.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Portuguese"],
+    "explanation": "Portuguese is the official language of Brazil.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Which part of the cell contains DNA?",
+    "type": "multiple-choice",
+    "options": ["Nucleus", "Mitochondria", "Cytoplasm", "Ribosome"],
+    "correct": "A",
+    "explanation": "The nucleus contains the DNA in eukaryotic cells.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "How many bones are there in the adult human body?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["206"],
+    "explanation": "The adult human body has 206 bones.",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["100", "100°C"],
+    "explanation": "Water boils at 100°C at standard pressure.",
+    "difficulty": "medium"
+  },
+
+  
+  {
+    "question": "What is the Heisenberg Uncertainty Principle related to?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Quantum mechanics", "Uncertainty principle", "Heisenberg principle"],
+    "explanation": "It refers to the limit of precision when measuring both position and momentum in quantum mechanics.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which mathematical theorem proves that a² + b² = c² for right triangles?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Pythagorean Theorem"],
+    "explanation": "The Pythagorean Theorem relates the sides of right-angled triangles.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["cos(x)", "cos x"],
+    "explanation": "The derivative of sin(x) is cos(x).",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Mitochondria"],
+    "explanation": "Mitochondria generate most of the cell's energy.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is Schrödinger's cat an example of?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Quantum superposition"],
+    "explanation": "Schrödinger's cat is a thought experiment illustrating quantum superposition.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which country was formerly known as Persia?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Iran"],
+    "explanation": "Persia was renamed Iran in 1935.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the chemical formula of table salt?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["NaCl"],
+    "explanation": "Table salt is sodium chloride, NaCl.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Who developed the theory of General Relativity?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Albert Einstein", "Einstein"],
+    "explanation": "Einstein formulated the theory of General Relativity.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "In what year did the Berlin Wall fall?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["1989"],
+    "explanation": "The Berlin Wall fell in 1989.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which element has the atomic number 92?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Uranium"],
+    "explanation": "Uranium has the atomic number 92.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What is the integral of 1/x dx?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["ln|x|", "ln(x)"],
+    "explanation": "The integral of 1/x is the natural logarithm of |x|.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which language is primarily spoken in Switzerland?",
+    "type": "multiple-choice",
+    "options": ["French", "German", "Italian", "All of the above"],
+    "correct": "D",
+    "explanation": "Switzerland has four national languages: German, French, Italian, and Romansh.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "type": "multiple-choice",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "correct": "B",
+    "explanation": "As of recent discoveries, Saturn has the most known moons.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What’s the capital of Iceland?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Reykjavik"],
+    "explanation": "The capital of Iceland is Reykjavik.",
+    "difficulty": "hard"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "type": "open-ended",
+    "options": [],
+    "correct": ["Deoxyribonucleic acid"],
+    "explanation": "DNA stands for Deoxyribonucleic Acid.",
+    "difficulty": "hard"
+  }
+]
